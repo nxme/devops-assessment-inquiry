@@ -1,4 +1,4 @@
-# devops-assessment-inquiry
+# DevOps Assessment Inquiry
 This is a list of questions and checklists to verify that the application infrastructure is healthy and fulfills scalability, monitoring, notifications, logging, backups, replication, disaster recovery, load balancing, high availability.
 
 1. Is Slave Replication being used for the master SQL Server database? If yes, what is the current setup being used?
